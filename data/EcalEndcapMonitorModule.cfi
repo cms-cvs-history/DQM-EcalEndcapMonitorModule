@@ -5,6 +5,7 @@ module ecalEndcapMonitorModule = EcalEndcapMonitorModule{
   InputTag EBDigiCollection = ecalEBunpacker:
   InputTag EcalUncalibratedRecHitCollection = ecalUncalibHit:EcalUncalibRecHitsEB
   untracked string outputFile = ""
+  untracked bool enableCleanup = true
   untracked bool enableMonitorDaemon = true
   untracked bool enableEventDisplay = false
   untracked int32 runNumber = 0
