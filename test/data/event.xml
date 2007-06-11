@@ -5,7 +5,7 @@
    <layout name="EcalEvent">
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EcalEvent/EEMM event SM01" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EcalEvent/EEMM event EE-01" />
          </column>         
      </row>
   </layout>

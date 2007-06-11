@@ -10,146 +10,146 @@
    <layout name="IntegrityTask">
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM01" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-01" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM19" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM02" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM20" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM03" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-02" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM21" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM04" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM22" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-02" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM05" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-03" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM23" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM06" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM24" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+03" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM07" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-04" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM25" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM08" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM26" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+04" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM09" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-05" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM27" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM10" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM28" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+05" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM11" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-06" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM29" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM12" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM30" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+06" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM213" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-07" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM31" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM14" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM32" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+07" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM15" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-08" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM33" />
-         </column>         
-     </row>
-     <row>
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM16" />
-         </column>         
-         <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM34" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+08" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM17" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-09" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM35" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+09" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM18" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-10" />
          </column>         
          <column>
-            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy SM36" />
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+10" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-11" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+11" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-12" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+12" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-13" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+13" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-14" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+14" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-15" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+15" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-16" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+16" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-17" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+17" />
+         </column>         
+     </row>
+     <row>
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-18" />
+         </column>         
+         <column>
+            <monitorable name="Collector/FU0/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+18" />
          </column>         
      </row>
    </layout>
