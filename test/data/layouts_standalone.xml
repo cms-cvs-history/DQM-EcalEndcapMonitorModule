@@ -238,24 +238,24 @@
   <layout name="Laser_client_6">
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser1/Gain01/EEPDT PNs pedestal EE-01 G01 L1" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser1/PN/Gain01/EEPDT PNs pedestal EE-01 G01 L1" />
          </column>         
          <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G01 L1" />
           </column>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser1/Gain01/EEPDT PNs amplitude EE-01 G01 L1" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser1/PN/Gain01/EEPDT PNs amplitude EE-01 G01 L1" />
          </column>
      </row>
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser4/Gain01/EEPDT PNs pedestal EE-01 G01 L4" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser4/PN/Gain01/EEPDT PNs pedestal EE-01 G01 L4" />
          </column>         
          <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G01 L4" />
          </column>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser4/Gain01/EEPDT PNs amplitude EE-01 G01 L4" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser4/PN/Gain01/EEPDT PNs amplitude EE-01 G01 L4" />
          </column>
      </row>
    </layout>
@@ -276,24 +276,24 @@
    <layout name="Laser_client_8">
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser1/Gain16/EEPDT PNs pedestal EE-01 G16 L1" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser1/PN/Gain16/EEPDT PNs pedestal EE-01 G16 L1" />
          </column>         
         <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G16 L1" />
         </column>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser1/Gain16/EEPDT PNs amplitude EE-01 G16 L1" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser1/PN/Gain16/EEPDT PNs amplitude EE-01 G16 L1" />
          </column>
      </row>
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser4/Gain16/EEPDT PNs pedestal EE-01 G16 L4" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser4/PN/Gain16/EEPDT PNs pedestal EE-01 G16 L4" />
          </column>         
          <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G16 L4" />
           </column>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Laser4/Gain16/EEPDT PNs amplitude EE-01 G16 L4" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser4/PN/Gain16/EEPDT PNs amplitude EE-01 G16 L4" />
          </column>
       </row>
    </layout>
@@ -406,7 +406,7 @@
    <layout name="Pedestal_client_8">
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Gain01/EEPDT PNs pedestal EE-01 G01" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPedestalTask/PN/Gain01/EEPDT PNs pedestal EE-01 G01" />
          </column>  
         <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPDT PNs pedestal rms EE-01 G01" />
@@ -414,7 +414,7 @@
      </row>
      <row>       
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Gain16/EEPDT PNs pedestal EE-01 G16" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPedestalTask/PN/Gain16/EEPDT PNs pedestal EE-01 G16" />
          </column>
          <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPDT PNs pedestal rms EE-01 G16" />
@@ -512,24 +512,24 @@
   <layout name="TestPulse_client_5">
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Gain01/EEPDT PNs pedestal EE-01 G01" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EETestPulseTask/PN/Gain01/EEPDT PNs pedestal EE-01 G01" />
          </column>
         <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EEPDT PNs pedestal rms EE-01 G01" />
           </column>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Gain01/EEPDT PNs amplitude EE-01 G01" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EETestPulseTask/PN/Gain01/EEPDT PNs amplitude EE-01 G01" />
          </column>
      </row>
      <row>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Gain16/EEPDT PNs pedestal EE-01 G16" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EETestPulseTask/PN/Gain16/EEPDT PNs pedestal EE-01 G16" />
          </column>         
         <column>
              <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EEPDT PNs pedestal rms EE-01 G16" />
           </column>
          <column>
-            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EEPnDiodeTask/Gain16/EEPDT PNs amplitude EE-01 G16" />
+            <monitorable name="EcalEndcapMonitorClient/EcalEndcap/EETestPulseTask/PN/Gain16/EEPDT PNs amplitude EE-01 G16" />
          </column>
       </row>
    </layout>
