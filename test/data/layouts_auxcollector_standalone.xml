@@ -34,12 +34,12 @@
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEIntegrityClient/EEIT data integrity quality EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEIntegrityClient/EEIT data integrity quality EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+01" />
          </column>         
      </row>
    </layout>
@@ -47,17 +47,17 @@
    <layout name="Integrity_client_2">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/Gain/EEIT gain EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/Gain/EEIT gain EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/ChId/EEIT ChId EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/ChId/EEIT ChId EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/GainSwitch/EEIT gain switch EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/GainSwitch/EEIT gain switch EE+01" />
          </column>
      </row>
    </layout>
@@ -65,17 +65,17 @@
    <layout name="Integrity_client_3">
      <row>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/GainSwitchStay/EEIT gain switch stay EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/GainSwitchStay/EEIT gain switch stay EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/TTId/EEIT TTId EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/TTId/EEIT TTId EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/TTBlockSize/EEIT TTBlockSize EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/TTBlockSize/EEIT TTBlockSize EE+01" />
          </column>         
      </row>
    </layout>
@@ -83,17 +83,17 @@
    <layout name="Integrity_client_4">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEIntegrityClient/EEIT data integrity quality MEM EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEIntegrityClient/EEIT data integrity quality MEM EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEOccupancyTask/EEOT MEM occupancy EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEOccupancyTask/EEOT MEM occupancy EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemChId/EEIT MemChId EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemChId/EEIT MemChId EE+01" />
          </column>         
      </row>
    </layout>
@@ -101,17 +101,17 @@
    <layout name="Integrity_client_5">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemGain/EEIT MemGain EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemGain/EEIT MemGain EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemTTId/EEIT MemTTId EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemTTId/EEIT MemTTId EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemSize/EEIT MemSize EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEIntegrityTask/MemSize/EEIT MemSize EE+01" />
          </column>         
      </row> 
    </layout>
@@ -124,17 +124,17 @@
   <layout name="Cosmics_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Sel/EECT energy sel EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Sel/EECT energy sel EE+01" />
          </column>         
      </row>
      <row> 
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Cut/EECT energy cut EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Cut/EECT energy cut EE+01" />
          </column>
       </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Spectrum/EECT energy spectrum EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Spectrum/EECT energy spectrum EE+01" />
          </column>         
          <column>
             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EECosmicTask/Spectrum/pippo" />
@@ -150,12 +150,12 @@
   <layout name="Laser_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L1 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L1 EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L4 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L4 EE+01" />
          </column>         
      </row>
   </layout>
@@ -163,18 +163,18 @@
   <layout name="Laser_client_2">
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L1A EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L1A EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L1A EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L1A EE+01" />
          </column>         
       </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L4A EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L4A EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L4A EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L4A EE+01" />
          </column>         
       </row>
   </layout>
@@ -182,18 +182,18 @@
   <layout name="Laser_client_3">
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L1B EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L1B EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L1B EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L1B EE+01" />
          </column>         
       </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L4B EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude L4B EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L4B EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT amplitude over PN L4B EE+01" />
          </column>         
       </row>
   </layout>
@@ -201,18 +201,18 @@
   <layout name="Laser_client_4">
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L1A EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L1A EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser1/EELT shape EE-01 L1A" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser1/EELT shape EE+01 L1A" />
          </column>         
       </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L4A EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L4A EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser4/EELT shape EE-01 L4A" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserTask/Laser4/EELT shape EE+01 L4A" />
          </column>         
       </row>
   </layout>
@@ -220,18 +220,18 @@
   <layout name="Laser_client_5">
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L1B EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L1B EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/EELT shape EE-01 L1B" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/EELT shape EE+01 L1B" />
          </column>         
       </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L4B EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT timing L4B EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/EELT shape EE-01 L4B" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/EELT shape EE+01 L4B" />
          </column>         
       </row>
   </layout>
@@ -239,25 +239,25 @@
   <layout name="Laser_client_6">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain01/EEPDT PNs pedestal EE-01 G01 L1" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain01/EEPDT PNs pedestal EE+01 G01 L1" />
          </column>         
          <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G01 L1" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE+01 G01 L1" />
           </column>
 
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain01/EEPDT PNs amplitude EE-01 G01 L1" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain01/EEPDT PNs amplitude EE+01 G01 L1" />
          </column>
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain01/EEPDT PNs pedestal EE-01 G01 L4" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain01/EEPDT PNs pedestal EE+01 G01 L4" />
          </column>         
          <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G01 L4" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE+01 G01 L4" />
          </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain01/EEPDT PNs amplitude EE-01 G01 L4" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain01/EEPDT PNs amplitude EE+01 G01 L4" />
          </column>
      </row>
    </layout>
@@ -265,12 +265,12 @@
    <layout name="Laser_client_7">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L1 PNs EE-01 G16" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L1 PNs EE+01 G16" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L4 PNs EE-01 G16" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EELT laser quality L4 PNs EE+01 G16" />
          </column>
      </row>
    </layout>
@@ -278,24 +278,24 @@
    <layout name="Laser_client_8">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain16/EEPDT PNs pedestal EE-01 G16 L1" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain16/EEPDT PNs pedestal EE+01 G16 L1" />
          </column>         
         <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G16 L1" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE+01 G16 L1" />
         </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain16/EEPDT PNs amplitude EE-01 G16 L1" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser1/PN/Gain16/EEPDT PNs amplitude EE+01 G16 L1" />
          </column>
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain16/EEPDT PNs pedestal EE-01 G16 L4" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain16/EEPDT PNs pedestal EE+01 G16 L4" />
          </column>         
          <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE-01 G16 L4" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EELaserClient/EEPDT PNs pedestal rms EE+01 G16 L4" />
           </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain16/EEPDT PNs amplitude EE-01 G16 L4" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EELaserTask/Laser4/PN/Gain16/EEPDT PNs amplitude EE+01 G16 L4" />
          </column>
       </row>
    </layout>
@@ -308,15 +308,15 @@
   <layout name="Pedestal_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality G01 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal mean G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal mean G01 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal rms G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal rms G01 EE+01" />
          </column>         
       </row>
    </layout>
@@ -324,15 +324,15 @@
   <layout name="Pedestal_client_2">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality G06 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality G06 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal mean G06 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal mean G06 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal rms G06 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal rms G06 EE+01" />
          </column>         
       </row>
    </layout>
@@ -340,15 +340,15 @@
   <layout name="Pedestal_client_3">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality G12 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal mean G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal mean G12 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal rms G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal rms G12 EE+01" />
          </column>         
       </row>
    </layout>
@@ -356,12 +356,12 @@
   <layout name="Pedestal_client_4">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain01/EEPT pedestal 3sum EE-01 G01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain01/EEPT pedestal 3sum EE+01 G01" />
          </column>         
      </row>
      <row> 
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain01/EEPT pedestal 5sum EE-01 G01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain01/EEPT pedestal 5sum EE+01 G01" />
          </column>
       </row>
    </layout>
@@ -369,12 +369,12 @@
   <layout name="Pedestal_client_5">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain06/EEPT pedestal 3sum EE-01 G06" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain06/EEPT pedestal 3sum EE+01 G06" />
          </column>         
      </row>
      <row> 
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain06/EEPT pedestal 5sum EE-01 G06" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain06/EEPT pedestal 5sum EE+01 G06" />
          </column>
       </row>
    </layout>
@@ -382,12 +382,12 @@
   <layout name="Pedestal_client_6">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain12/EEPT pedestal 3sum EE-01 G12" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain12/EEPT pedestal 3sum EE+01 G12" />
          </column>         
      </row>
      <row> 
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain12/EEPT pedestal 5sum EE-01 G12" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/Gain12/EEPT pedestal 5sum EE+01 G12" />
          </column>
       </row>
    </layout>
@@ -395,12 +395,12 @@
    <layout name="Pedestal_client_7">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality PNs G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality PNs G01 EE+01" />
          </column>         
      </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality PNs G16 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPT pedestal quality PNs G16 EE+01" />
          </column>
       </row>
    </layout>
@@ -408,18 +408,18 @@
   <layout name="Pedestal_client_8">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/PN/Gain01/EEPDT PNs pedestal EE-01 G01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/PN/Gain01/EEPDT PNs pedestal EE+01 G01" />
          </column>         
         <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPDT PNs pedestal rms EE-01 G01" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPDT PNs pedestal rms EE+01 G01" />
           </column>
      </row>
      <row> 
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/PN/Gain16/EEPDT PNs pedestal EE-01 G16" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEPedestalTask/PN/Gain16/EEPDT PNs pedestal EE+01 G16" />
          </column>
          <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPDT PNs pedestal rms EE-01 G16" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalClient/EEPDT PNs pedestal rms EE+01 G16" />
           </column>
       </row>
    </layout>
@@ -432,15 +432,15 @@
   <layout name="PedestalOnline_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalOnlineClient/EEPOT pedestal quality G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalOnlineClient/EEPOT pedestal quality G12 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalOnlineClient/EEPOT pedestal mean G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalOnlineClient/EEPOT pedestal mean G12 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalOnlineClient/EEPOT pedestal rms G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EEPedestalOnlineClient/EEPOT pedestal rms G12 EE+01" />
          </column>         
       </row>
    </layout>
@@ -453,15 +453,15 @@
   <layout name="TestPulse_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality G01 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse amplitude G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse amplitude G01 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/Gain01/EETPT shape EE-01 G01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/Gain01/EETPT shape EE+01 G01" />
          </column>         
       </row>
    </layout>
@@ -469,15 +469,15 @@
   <layout name="TestPulse_client_2">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality G06 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality G06 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse amplitude G06 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse amplitude G06 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/Gain06/EETPT shape EE-01 G06" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/Gain06/EETPT shape EE+01 G06" />
          </column>         
       </row>
    </layout>
@@ -485,15 +485,15 @@
   <layout name="TestPulse_client_3">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality G12 EE+01" />
          </column>         
      </row>
       <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse amplitude G12 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse amplitude G12 EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/Gain12/EETPT shape EE-01 G12" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/Gain12/EETPT shape EE+01 G12" />
          </column>         
       </row>
    </layout>
@@ -501,12 +501,12 @@
   <layout name="TestPulse_client_4">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality PNs G01 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality PNs G01 EE+01" />
          </column>         
      </row>
      <row>    
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality PNs G16 EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EETPT test pulse quality PNs G16 EE+01" />
          </column>
       </row>
   </layout>
@@ -514,24 +514,24 @@
   <layout name="TestPulse_client_5">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain01/EEPDT PNs pedestal EE-01 G01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain01/EEPDT PNs pedestal EE+01 G01" />
          </column>         
         <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EEPDT PNs pedestal rms EE-01 G01" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EEPDT PNs pedestal rms EE+01 G01" />
           </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain01/EEPDT PNs amplitude EE-01 G01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain01/EEPDT PNs amplitude EE+01 G01" />
          </column>
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain16/EEPDT PNs pedestal EE-01 G16" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain16/EEPDT PNs pedestal EE+01 G16" />
          </column>         
         <column>
-             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EEPDT PNs pedestal rms EE-01 G16" />
+             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETestPulseClient/EEPDT PNs pedestal rms EE+01 G16" />
           </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain16/EEPDT PNs amplitude EE-01 G16" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EETestPulseTask/PN/Gain16/EEPDT PNs amplitude EE+01 G16" />
          </column>
       </row>
    </layout>
@@ -544,18 +544,18 @@
   <layout name="Timing_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing quality EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing quality EE+01" />
          </column>         
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing EE+01" />
          </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing mean EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing mean EE+01" />
          </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing rms EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EETimingClient/EETMT timing rms EE+01" />
          </column>
       </row>
   </layout>
@@ -568,18 +568,18 @@
   <layout name="BeamHodo_client_1">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE-01 01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE+01 01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE-01 01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE+01 01" />
          </column>
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE-01 02" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE+01 02" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE-01 02" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE+01 02" />
          </column>
       </row>
   </layout>
@@ -587,18 +587,18 @@
   <layout name="BeamHodo_client_2">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE-01 03" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE+01 03" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE-01 03" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE+01 03" />
          </column>
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE-01 04" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT occup EE+01 04" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE-01 04" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT raw EE+01 04" />
          </column>
       </row>
   </layout>
@@ -606,15 +606,15 @@
   <layout name="BeamHodo_client_3">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosX rec EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosX rec EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosY rec EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosY rec EE+01" />
          </column>
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosYX rec EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosYX rec EE+01" />
          </column>         
          <column>
             <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/pippo" />
@@ -625,18 +625,18 @@
   <layout name="BeamHodo_client_4">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT SloX EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT SloX EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT SloY EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT SloY EE+01" />
          </column>
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT QualX EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT QualX EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT QualY EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT QualY EE+01" />
          </column>
       </row>
   </layout>
@@ -644,24 +644,24 @@
   <layout name="BeamHodo_client_5">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT Hodo-Calo X vs Cry EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT Hodo-Calo X vs Cry EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT Hodo-Calo Y vs Cry EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT Hodo-Calo Y vs Cry EE+01" />
          </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT TDC-Calo vs Cry EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT TDC-Calo vs Cry EE+01" />
          </column>         
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosX Hodo-Calo EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosX Hodo-Calo EE+01" />
          </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosY Hodo-Calo EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT PosY Hodo-Calo EE+01" />
          </column>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT TimeMax TDC-Calo EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT TimeMax TDC-Calo EE+01" />
          </column>
       </row>
   </layout>
@@ -669,18 +669,18 @@
   <layout name="BeamHodo_client_6">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT prof E1 vs X EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT prof E1 vs X EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT his E1 vs X EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT his E1 vs X EE+01" />
          </column>
       </row>
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT prof E1 vs Y EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT prof E1 vs Y EE+01" />
          </column>         
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT his E1 vs Y EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT his E1 vs Y EE+01" />
          </column>
       </row>
   </layout>
@@ -688,7 +688,7 @@
   <layout name="BeamHodo_client_7">
      <row>
          <column>
-            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT Missing Collections EE-01" />
+            <monitorable name="AuxCollector/EcalEndcapMonitorClient/EcalEndcap/EcalEndcap/EEBeamHodoTask/EEBHT Missing Collections EE+01" />
          </column>
       </row>
   </layout>
