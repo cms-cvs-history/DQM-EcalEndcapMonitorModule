@@ -21,7 +21,7 @@
             <monitorable name="Collector/Ecal/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-02" />
          </column>         
          <column>
-            <monitorable name="Collector/Ecal/EcalEndcap/EEOccupancyTask/EEOT occupancy EE-02" />
+            <monitorable name="Collector/Ecal/EcalEndcap/EEOccupancyTask/EEOT occupancy EE+02" />
          </column>         
      </row>
      <row>
