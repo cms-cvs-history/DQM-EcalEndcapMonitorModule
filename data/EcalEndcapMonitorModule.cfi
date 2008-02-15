@@ -6,7 +6,6 @@ module ecalEndcapMonitorModule = EcalEndcapMonitorModule{
   InputTag EcalRecHitCollection = ecalRecHit:EcalRecHitsEE
   InputTag EcalTrigPrimDigiCollection = ecalEBunpacker:EETT
   untracked bool enableCleanup = false
-  untracked bool enableMonitorDaemon = false
   untracked bool enableEventDisplay = false
   untracked int32 runNumber = 0
   untracked int32 runType = -1
