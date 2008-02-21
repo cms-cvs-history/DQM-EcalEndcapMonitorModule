@@ -1,14 +1,12 @@
-
 module ecalEndcapMonitorModule = EcalEndcapMonitorModule{
   InputTag EcalTBEventHeader = ecalEBunpacker:
   InputTag EcalRawDataCollection = ecalEBunpacker:
   InputTag EEDigiCollection = ecalEBunpacker:eeDigis
   InputTag EcalRecHitCollection = ecalRecHit:EcalRecHitsEE
-  InputTag EcalTrigPrimDigiCollection = ecalEBunpacker:EETT
+  InputTag EcalTrigPrimDigiCollection = ecalEBunpacker:EcalTriggerPrimitives
   untracked bool enableCleanup = false
   untracked bool enableEventDisplay = false
   untracked int32 runNumber = 0
   untracked int32 runType = -1
   untracked bool verbose = false
 }
-
