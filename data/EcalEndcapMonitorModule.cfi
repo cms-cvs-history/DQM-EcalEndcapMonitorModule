@@ -1,5 +1,4 @@
 module ecalEndcapMonitorModule = EcalEndcapMonitorModule{
-  InputTag EcalTBEventHeader = ecalEBunpacker:
   InputTag EcalRawDataCollection = ecalEBunpacker:
   InputTag EEDigiCollection = ecalEBunpacker:eeDigis
   InputTag EcalRecHitCollection = ecalRecHit:EcalRecHitsEE
