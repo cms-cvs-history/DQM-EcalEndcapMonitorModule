@@ -7,5 +7,5 @@ module ecalEndcapMonitorModule = EcalEndcapMonitorModule{
   untracked bool enableEventDisplay = false
   untracked int32 runNumber = 0
   untracked int32 runType = -1
-  untracked bool verbose = false
+  untracked bool debug = false
 }
