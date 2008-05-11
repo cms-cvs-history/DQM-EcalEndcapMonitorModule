@@ -5,6 +5,7 @@ module ecalEndcapMonitorModule = EcalEndcapMonitorModule{
   InputTag EcalTrigPrimDigiCollection = ecalEBunpacker:EcalTriggerPrimitives
   untracked string prefixME = "EcalEndcap"
   untracked bool enableCleanup = false
+  untracked bool mergeRuns = false
   untracked bool enableEventDisplay = false
   untracked int32 runNumber = 0
   untracked int32 runType = -1
