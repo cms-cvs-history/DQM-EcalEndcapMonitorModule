@@ -119,7 +119,7 @@ process.ecalRecHit.EEuncalibRecHitCollection = cms.InputTag("ecalUncalibHit","Ec
 
 process.ecalEndcapMonitorModule.mergeRuns = True
 process.ecalEndcapMonitorModule.EEDigiCollection = cms.InputTag("ecalDigis","eeDigis")
-process.ecalEndcapMonitorModule.runType = 3
+process.ecalEndcapMonitorModule.runType = 3 # MTCC/PHYSICS
 
 process.ecalTriggerPrimitiveDigis.Label = 'ecalDigis'
 process.ecalTriggerPrimitiveDigis.InstanceEB = 'ebDigis'

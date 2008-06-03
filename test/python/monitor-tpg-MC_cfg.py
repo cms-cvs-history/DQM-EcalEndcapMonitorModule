@@ -105,7 +105,7 @@ process.ecalRecHit.EEuncalibRecHitCollection = cms.InputTag("ecalUncalibHit","Ec
 
 process.ecalEndcapMonitorModule.mergeRuns = True
 process.ecalEndcapMonitorModule.EEDigiCollection = cms.InputTag("ecalDigis","eeDigis")
-process.ecalEndcapMonitorModule.runType = 3
+process.ecalEndcapMonitorModule.runType = 3 # MTCC/PHYSICS
 
 process.ecalTriggerPrimitiveDigis.Label = 'ecalDigis'
 process.ecalTriggerPrimitiveDigis.InstanceEB = 'ebDigis'
@@ -129,6 +129,13 @@ process.ecalEndcapMonitorClient.mergeRuns = True
 process.ecalEndcapMonitorClient.location = 'H4'
 process.ecalEndcapMonitorClient.baseHtmlDir = '.'
 process.ecalEndcapMonitorClient.enabledClients = ['Integrity', 'Occupancy', 'PedestalOnline', 'Cosmic', 'Timing', 'TriggerTower', 'Cluster', 'Summary']
+
+#process.islandBasicClusters.IslandBarrelSeedThr = 0.150 # 0.500
+#process.islandBasicClusters.IslandEndcapSeedThr = 0.150 # 0.180
+
+#process.hybridSuperClusters.HybridBarrelSeedThr = 0.150 # 1.000
+#process.hybridSuperClusters.step = 1      # 17
+#process.hybridSuperClusters.eseed = 0.150 # 0.350
 
 process.DQM.collectorHost = ''
 
