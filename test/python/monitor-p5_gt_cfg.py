@@ -62,7 +62,7 @@ process.source = cms.Source("PoolSource",
     debugFlag = cms.untracked.bool(True),
     debugVebosity = cms.untracked.uint32(10),
 #---
-     fileNames = cms.untracked.vstring('/store/data/CRUZET2/Cosmics/RAW/v1/000/046/798/4ABA3989-9E38-DD11-AE40-000423D8FA38.root')
+    fileNames = cms.untracked.vstring('/store/users/dellaric/data/GlobalCruzet2.00046798.root')
 #---
 )
 
