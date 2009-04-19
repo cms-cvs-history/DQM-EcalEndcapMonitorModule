@@ -62,8 +62,8 @@ process.maxEvents = cms.untracked.PSet(
 )
 
 process.source = cms.Source("PoolSource",
-    debugFlag = cms.untracked.bool(True),
-    debugVebosity = cms.untracked.uint32(10),
+    noEventSort = cms.untracked.bool(True),
+    duplicateCheckMode = cms.untracked.string('noDuplicateCheck'),
 #---
     fileNames = cms.untracked.vstring('/store/users/dellaric/data/GlobalCruzet2.00046798.root')
 #---
