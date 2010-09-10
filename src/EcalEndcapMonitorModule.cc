@@ -1,15 +1,12 @@
 /*
  * \file EcalEndcapMonitorModule.cc
  *
- * $Date: 2010/07/30 06:07:14 $
- * $Revision: 1.82 $
+ * $Date: 2010/08/12 20:09:08 $
+ * $Revision: 1.76.2.3 $
  * \author G. Della Ricca
  * \author G. Franzoni
  *
 */
-
-#include "FWCore/Framework/interface/Frameworkfwd.h"
-#include "FWCore/Framework/interface/MakerMacros.h"
 
 #include "DataFormats/EcalRawData/interface/EcalRawDataCollections.h"
 #include "DataFormats/EcalDetId/interface/EEDetId.h"
@@ -22,7 +19,7 @@
 #include "FWCore/ServiceRegistry/interface/Service.h"
 #include "DQMServices/Core/interface/DQMStore.h"
 
-#include <DQM/EcalCommon/interface/Numbers.h>
+#include "DQM/EcalCommon/interface/Numbers.h"
 
 #include "FWCore/MessageLogger/interface/MessageLogger.h"
 
@@ -30,7 +27,7 @@
 #include <iostream>
 #include <fstream>
 
-#include <DQM/EcalEndcapMonitorModule/interface/EcalEndcapMonitorModule.h>
+#include "DQM/EcalEndcapMonitorModule/interface/EcalEndcapMonitorModule.h"
 
 EcalEndcapMonitorModule::EcalEndcapMonitorModule(const edm::ParameterSet& ps){
 
@@ -257,21 +254,21 @@ void EcalEndcapMonitorModule::setup(void){
       meEEDCC_->setBinLabel(i+1, Numbers::sEE(i+1).c_str(), 1);
     }
 
-    meEEdigis_[0] = dqmStore_->book1D("EEMM digi number", "EEMM digi number", 100, 0., 13299.);
+    meEEdigis_[0] = dqmStore_->book1D("EEMM digi number", "EEMM digi number", 100, 0., 3000.);
 
     meEEdigis_[1] = dqmStore_->bookProfile("EEMM digi number profile", "EEMM digi number profile", 18, 1, 19., 850, 0., 851., "s");
     for (int i = 0; i < 18; i++) {
       meEEdigis_[1]->setBinLabel(i+1, Numbers::sEE(i+1).c_str(), 1);
     }
 
-    meEEhits_[0] = dqmStore_->book1D("EEMM hit number", "EEMM hit number", 100, 0., 13299.);
+    meEEhits_[0] = dqmStore_->book1D("EEMM hit number", "EEMM hit number", 100, 0., 3000.);
 
     meEEhits_[1] = dqmStore_->bookProfile("EEMM hit number profile", "EEMM hit number profile", 18, 1, 19., 850, 0., 851., "s");
     for (int i = 0; i < 18; i++) {
       meEEhits_[1]->setBinLabel(i+1, Numbers::sEE(i+1).c_str(), 1);
     }
 
-    meEEtpdigis_[0] = dqmStore_->book1D("EEMM TP digi number", "EEMM TP digi number", 100, 0., 631.);
+    meEEtpdigis_[0] = dqmStore_->book1D("EEMM TP digi number", "EEMM TP digi number", 100, 0., 1385.);
 
     meEEtpdigis_[1] = dqmStore_->bookProfile("EEMM TP digi number profile", "EEMM TP digi number profile", 18, 1, 19., 34, 0., 35., "s");
     for (int i = 0; i < 18; i++) {
