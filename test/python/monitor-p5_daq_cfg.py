@@ -65,16 +65,8 @@ process.source = cms.Source("PoolSource",
 #---
 )
 
-process.load("CalibCalorimetry.EcalTrivialCondModules.EcalTrivialCondRetriever_cfi")
-
-process.EcalTrivialConditionRetriever.adcToGeVEBConstant = cms.untracked.double(0.00875)
-process.EcalTrivialConditionRetriever.getWeightsFromFile = False
-process.EcalTrivialConditionRetriever.pedWeights = cms.untracked.vdouble(0.333, 0.333, 0.333, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0)
-process.EcalTrivialConditionRetriever.pedWeightsAft = cms.untracked.vdouble(0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0)
-process.EcalTrivialConditionRetriever.amplWeights = cms.untracked.vdouble(-0.333, -0.333, -0.333, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0)
-process.EcalTrivialConditionRetriever.amplWeightsAftGain = cms.untracked.vdouble(0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0)
-process.EcalTrivialConditionRetriever.jittWeights = cms.untracked.vdouble(0.041, 0.041, 0.041, 0.0, 1.325, -0.05, -0.504, -0.502, -0.390, 0.0)
-process.EcalTrivialConditionRetriever.jittWeightsAft = cms.untracked.vdouble(0.0, 0.0, 0.0, 0.0, 1.098, -0.046, -0.416, -0.419, -0.337, 0.0)
+process.load("Configuration.StandardSequences.FrontierConditions_GlobalTag_cff")
+process.GlobalTag.globaltag = "CRAFT09_R_V4::All"
 
 process.MessageLogger = cms.Service("MessageLogger",
     cout = cms.untracked.PSet(
@@ -232,8 +224,4 @@ process.ecalEndcapMonitorClient.location = 'P5_Co'
 #process.ecalEndcapMonitorClient.superModules = [34]
 
 process.DQM.collectorHost = ''
-
-process.load("Configuration.StandardSequences.FrontierConditions_GlobalTag_cff")
-process.prefer("GlobalTag")
-process.GlobalTag.globaltag = "CRAFT09_R_V4::All"
 
