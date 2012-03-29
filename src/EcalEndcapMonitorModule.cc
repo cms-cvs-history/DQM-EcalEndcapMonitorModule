@@ -1,8 +1,8 @@
 /*
  * \file EcalEndcapMonitorModule.cc
  *
- * $Date: 2011/09/02 13:55:03 $
- * $Revision: 1.86 $
+ * $Date: 2012/03/29 13:49:34 $
+ * $Revision: 1.86.2.1 $
  * \author G. Della Ricca
  * \author G. Franzoni
  *
@@ -15,6 +15,8 @@
 #include "DataFormats/EcalRecHit/interface/EcalRecHitCollections.h"
 
 #include "DQMServices/Core/interface/MonitorElement.h"
+
+#include "FWCore/Framework/interface/Run.h"
 
 #include "FWCore/ServiceRegistry/interface/Service.h"
 #include "DQMServices/Core/interface/DQMStore.h"
