@@ -1,8 +1,8 @@
 /*
  * \file EcalEndcapMonitorModule.cc
  *
- * $Date: 2011/06/27 08:31:54 $
- * $Revision: 1.85 $
+ * $Date: 2011/09/02 13:55:03 $
+ * $Revision: 1.86 $
  * \author G. Della Ricca
  * \author G. Franzoni
  *
@@ -156,6 +156,8 @@ void EcalEndcapMonitorModule::beginJob(void){
 void EcalEndcapMonitorModule::beginRun(const edm::Run& r, const edm::EventSetup& c) {
 
   if ( debug_ ) std::cout << "EcalEndcapMonitorModule: beginRun" << std::endl;
+
+  if(verbose_) std::cout << "Starting run " << r.run() << std::endl;
 
   if ( ! mergeRuns_ ) this->reset();
 
