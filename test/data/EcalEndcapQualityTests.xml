@@ -1071,35 +1071,19 @@
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
-<LINK name="*EcalEndcap/EESummaryClient/EELT EE * laser quality summary L1">
+<LINK name="*EcalEndcap/EESummaryClient/EELT EE * laser quality summary *">
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
-<LINK name="*EcalEndcap/EESummaryClient/EELT EE * PN laser quality summary L1">
+<LINK name="*EcalEndcap/EESummaryClient/EELT PN laser quality summary *">
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
-<LINK name="*EcalEndcap/EESummaryClient/EELT EE * laser quality summary L4">
+<LINK name="*EcalEndcap/EESummaryClient/EELDT EE * led quality summary *">
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
-<LINK name="*EcalEndcap/EESummaryClient/EELT EE * PN laser quality summary L4">
-        <TestName activate="true">EE_Quality_Summary</TestName>
-</LINK>
-
-<LINK name="*EcalEndcap/EESummaryClient/EELDT EE * led quality summary L1">
-        <TestName activate="true">EE_Quality_Summary</TestName>
-</LINK>
-
-<LINK name="*EcalEndcap/EESummaryClient/EELDT EE * PN led quality summary L1">
-        <TestName activate="true">EE_Quality_Summary</TestName>
-</LINK>
-
-<LINK name="*EcalEndcap/EESummaryClient/EELDT EE * led quality summary L2">
-        <TestName activate="true">EE_Quality_Summary</TestName>
-</LINK>
-
-<LINK name="*EcalEndcap/EESummaryClient/EELDT EE * PN led quality summary L2">
+<LINK name="*EcalEndcap/EESummaryClient/EELDT PN led quality summary *">
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
@@ -1107,7 +1091,7 @@
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
-<LINK name="*EcalEndcap/EESummaryClient/EEPT EE * PN pedestal quality summary">
+<LINK name="*EcalEndcap/EESummaryClient/EEPT PN pedestal quality summary">
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
@@ -1115,7 +1099,7 @@
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
-<LINK name="*EcalEndcap/EESummaryClient/EETPT EE * PN test pulse quality summary">
+<LINK name="*EcalEndcap/EESummaryClient/EETPT PN test pulse quality summary">
         <TestName activate="true">EE_Quality_Summary</TestName>
 </LINK>
 
